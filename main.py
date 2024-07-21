@@ -86,6 +86,7 @@ if st.button('Generate') and st.session_state['llm'] is not None and st.session_
         llm = st.session_state['llm']
         index = st.session_state['embeddings']
         context = get_context(index, query)
+        st.write("Context: " + context)
         prompt = get_alpaca_prompt(context, query)
 
         start_time = time.time()
