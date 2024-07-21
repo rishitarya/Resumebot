@@ -1,0 +1,6 @@
+llama_index
+llama-index-embeddings-huggingface
+langchain_community
+ctransformers
+streamlit
+charset-normalizer==3.1.0
