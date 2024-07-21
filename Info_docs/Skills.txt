@@ -1,0 +1,1 @@
+My Skills include Machine learning, Deep learning, Reinforcement learning, statistical analysis. Data Analysis. While I am proficient in programming in python and SQL, I also have experienced with PySpark and GOLANG.Also I am exploring and learning about Generative AI mainly in NLP space.

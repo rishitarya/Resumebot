@@ -1,0 +1,4 @@
+I have two personal projects here, American type option pricing through modified Black Scholes model and Resume chatbot.
+For Resume chatbot, which is this bot, I finetuned mistral model using Qlora technique and used RAG to give the chatbot all context related to me.
+For pricing american type options using a modified Black Scholes model, I Created Monte Carlo Simulations of the Black Scholes pricing model to estimate prices of American-type options
+then formulated criteria for determining the early exercise of simulations and as a result reduced the gap between actual and predicted price by 85% as compared to standard Black Scholes Model.
