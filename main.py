@@ -8,7 +8,7 @@ from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.core.postprocessor import SimilarityPostprocessor
 
 def load_llm():
-    model_name = 'aryarishit/mistral-unsloth-resumebot-v2-GGUF'
+    model_name = 'aryarishit/phi3-unsloth-resumebot-GGUF'
 
     llm = CTransformers(
             model = model_name,
