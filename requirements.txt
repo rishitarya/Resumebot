@@ -3,4 +3,5 @@ llama-index-embeddings-huggingface
 langchain_community
 ctransformers
 streamlit
+inotify
 charset-normalizer==3.1.0
